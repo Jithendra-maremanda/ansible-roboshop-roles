@@ -1,1 +1,2 @@
-MONGODB_HOST: mongodb-{{ env }}.stansrobotshop.site
+MONGODB_HOST: "mongodb-{{ env }}.stansrobotshop.site"
+# MONGODB_HOST: "mongodb-{{ env }}.daws84s.site"
